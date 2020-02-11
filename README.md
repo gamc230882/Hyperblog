@@ -5,12 +5,12 @@ El curso de git y github es lo que hacia faltan para triplicar mi salario y lanz
   niñita 
 
   En este curso vemos de todo:
-  *Todos los comandos de Git
-  *El flujo de trabajo en Github
-  *El verdadero amor por tus buenas practicas
-  *Trucos muy locos del profesor
-  *Las personalidades multiples de Freddy
-  *Tratando de acomodar el error
+  °Todos los comandos de Git
+  °El flujo de trabajo en Github
+  °El verdadero amor por tus buenas practicas
+  °Trucos muy locos del profesor
+  °Las personalidades multiples de Freddy
+  °Tratando de acomodar el error
 
 
   Y como un amable recordatorio. "Este Readme.md es un chiste." Diseñado para el ejemplo. Si llegas aca. NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
