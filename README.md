@@ -15,7 +15,4 @@ El curso de git y github es lo que hacia faltan para triplicar mi salario y lanz
   * Disponible para todas las edades
 
 
-
-
-
   Y como un amable recordatorio. "Este Readme.md es un chiste." Diseñado para el ejemplo. Si llegas aca. NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
