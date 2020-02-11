@@ -10,7 +10,9 @@ El curso de git y github es lo que hacia faltan para triplicar mi salario y lanz
   *El verdadero amor por tus buenas practicas
   *Trucos muy locos del profesor
   *Las personalidades multiples de Freddy
-  *Tratando de acomodar el error
+  *Creado por el tem Platzi
+  *Incluye ejemplos en Windows, Linux y Mac
+  *Disponible para todas las edades
 
 
   Y como un amable recordatorio. "Este Readme.md es un chiste." Diseñado para el ejemplo. Si llegas aca. NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
