@@ -12,5 +12,6 @@ El curso de git y github es lo que hacia faltan para triplicar mi salario y lanz
   *Las personalidades multiples de Freddy
   *Creado por el incre&iacuseble Platzi
   *Incluye ejemplos en Windows, Linux y Mac 
+  * Disponible para todas las edades
 
   Y como un amable recordatorio. "Este Readme.md es un chiste." Diseñado para el ejemplo. Si llegas aca. NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
